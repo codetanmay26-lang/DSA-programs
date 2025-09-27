@@ -11,6 +11,7 @@ I will complete and write new programs and update the satus about my dsa journey
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,4 +20,8 @@ I will complete and write new programs and update the satus about my dsa journey
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
