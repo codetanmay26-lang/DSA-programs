@@ -6,6 +6,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
+| [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -40,4 +41,16 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
