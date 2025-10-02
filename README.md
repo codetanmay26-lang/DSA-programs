@@ -44,6 +44,7 @@ List of question I solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Enumeration
@@ -57,6 +58,7 @@ List of question I solved on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -65,5 +67,6 @@ List of question I solved on leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
