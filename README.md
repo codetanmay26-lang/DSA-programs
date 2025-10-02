@@ -45,6 +45,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,4 +54,16 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
