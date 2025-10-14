@@ -11,6 +11,7 @@ List of question I solved on leetcode
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1603-running-sum-of-1d-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/codetanmay26-lang/DSA-programs/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
 | ------- |
