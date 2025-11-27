@@ -10,6 +10,7 @@ List of question I solved on leetcode
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
+| [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1603-running-sum-of-1d-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/codetanmay26-lang/DSA-programs/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -88,10 +89,12 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
