@@ -52,6 +52,7 @@ List of question I solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
