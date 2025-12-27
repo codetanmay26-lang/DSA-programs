@@ -13,6 +13,7 @@ List of question I solved on leetcode
 | [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1603-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/codetanmay26-lang/DSA-programs/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Two Pointers
 |  |
