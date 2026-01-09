@@ -5,6 +5,7 @@ List of question I solved on leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
@@ -101,4 +102,8 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
