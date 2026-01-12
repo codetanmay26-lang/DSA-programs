@@ -6,6 +6,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
@@ -19,6 +20,7 @@ List of question I solved on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
