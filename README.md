@@ -11,6 +11,7 @@ List of question I solved on leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
@@ -32,6 +33,7 @@ List of question I solved on leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 ## Bit Manipulation
