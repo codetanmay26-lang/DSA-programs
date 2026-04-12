@@ -17,6 +17,7 @@ List of question I solved on leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1603-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ List of question I solved on leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
