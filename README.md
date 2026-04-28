@@ -126,4 +126,8 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
