@@ -57,6 +57,7 @@ List of question I solved on leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0796-rotate-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codetanmay26-lang/DSA-programs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -130,4 +131,8 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
