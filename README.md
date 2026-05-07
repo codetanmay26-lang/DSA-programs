@@ -96,6 +96,7 @@ List of question I solved on leetcode
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -131,6 +132,7 @@ List of question I solved on leetcode
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
