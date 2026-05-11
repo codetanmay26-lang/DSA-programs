@@ -6,6 +6,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -56,6 +57,7 @@ List of question I solved on leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0796-rotate-string) |
@@ -139,4 +141,8 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
