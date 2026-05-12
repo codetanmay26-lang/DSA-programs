@@ -32,6 +32,7 @@ List of question I solved on leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0876-middle-of-the-linked-list) |
@@ -65,6 +66,7 @@ List of question I solved on leetcode
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codetanmay26-lang/DSA-programs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -99,6 +101,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,6 +138,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
