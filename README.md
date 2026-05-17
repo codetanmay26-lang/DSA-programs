@@ -83,6 +83,7 @@ List of question I solved on leetcode
 | [0009-palindrome-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
@@ -96,17 +97,20 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
