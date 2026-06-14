@@ -30,6 +30,7 @@ List of question I solved on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
@@ -141,6 +142,7 @@ List of question I solved on leetcode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
