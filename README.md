@@ -33,6 +33,7 @@ List of question I solved on leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0344-reverse-string) |
@@ -121,10 +122,12 @@ List of question I solved on leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
@@ -144,6 +147,7 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0237-delete-node-in-a-linked-list) |
@@ -158,4 +162,8 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
