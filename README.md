@@ -24,6 +24,7 @@ List of question I solved on leetcode
 | [0875-koko-eating-bananas](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-running-sum-of-1d-array](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1603-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/codetanmay26-lang/DSA-programs/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -72,11 +73,13 @@ List of question I solved on leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1441-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codetanmay26-lang/DSA-programs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codetanmay26-lang/DSA-programs/tree/master/0054-spiral-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/codetanmay26-lang/DSA-programs/tree/master/1441-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codetanmay26-lang/DSA-programs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
